@@ -1,0 +1,72 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+  }
+  .colors {
+    border: 2px black solid;
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  .fonts {
+    border: 2px black solid;
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  .text-styles {
+    border: 2px black solid;
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  .bright-pink {
+    border: 1px black solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #E16AB3;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .light-pink {
+    border: 1px black solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #DBADCA;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .dark-pink {
+    border: 1px black solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #610D41;
+    margin: 10px;
+    color: white;
+    text-align: center;
+  }
+  
+  .playfair {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .source-sans {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
